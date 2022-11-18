@@ -1,0 +1,55 @@
+a couch	en sofa
+a sofabed	en sovesofa
+a bookcase	en bokhylle
+an easy chair	en lenestol
+a chair	en stol
+a coffeetable	en salongbord
+a ceiling lamp	en taklampe
+a music system	en musikkanlegg
+a television	en TV
+a TV table	et TV-bord
+a potted plant	en potteplante
+a tablecloth	en duk
+a rug	et teppe
+a curtain	ei gardin
+a roller blind	en rullegardin
+a blind	en blind
+a painting	et maleri
+a wall heater	et element
+a bed	en seng
+a chest of drawers	en kommode
+a bedside table	et nattbord
+a wardrobe	en garderobe
+a desk	et skrivebord
+a pillowcase	et putevar
+a pillow	en pute
+a mattress	en madrass
+a mattress cover	et sengetøy
+a duvet	en dyne
+a duvet cover	en dynetrekk
+a blanket or shawl	en pledd
+a toilet	et toalett
+a mirror	et speil
+a shower	en dusj
+a bathtub	et badekar
+a faucet	en kran
+a sink	en vask
+a washing machine	en vaskemaskin
+a hair dryer	en hårføner
+a stove	en komfyr
+a oven	en ovn
+a dishwasher	en oppvaskmaskin
+a kitchen fan	en vifte
+a refrigerator	et kjøleskap
+a freezer	en fryser
+a kitchen prep table	et spisebord
+a coffee maker	en kaffetrakter
+a microwave oven	en mikrobølgeovn
+a dish rack	et oppvaskstativ
+a kitchen	et kjøkken
+a living room	ei stue
+a hallway	en gang
+a bedroom	et soverom
+a landry room	et vaskerom
+a bathroom	et baderom
+a placemat	en spiseplass

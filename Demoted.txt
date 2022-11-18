@@ -1,0 +1,22 @@
+(go) home	hjem
+(at) home	hjemme
+(go) out	ut
+(am) out	ute
+(go) in	inn
+(am) in	inne
+(go) down	ned
+(am) down	nede
+(go) up	opp
+(am) up	oppe
+(go) away	bort
+(am) away	borte
+apply makeup	sminker
+heat stroke	heteslag
+don't stress	null stress
+movements	bevegelser
+confirm	bekreft
+excited	begeistret
+worried	bekymret
+vacuum	støvsuger
+fee	gebyr
+rules	regler

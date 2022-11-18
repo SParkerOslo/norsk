@@ -1,0 +1,8 @@
+15:05	fem over tre
+15:15	kvart over tre
+15:24	seks på halv fire
+15:30	halv fire
+15:38	åtte over halv fire
+15:45	kvart på fire
+15:55	fem på fire
+a 15 minutes	et kvarter

@@ -1,0 +1,28 @@
+ei jakke	a jacket
+sko	shoe
+skjortas	shorts
+klær	clothes
+briller	glasses
+et skjørt	a skirt
+en kjole	a dress
+ei bukse	a pair of pants (trousers)
+en sokk	a sock
+en dress	a suit
+en hatt	a hat
+en lue	a cap
+et skjerf	a scarf
+en hanske	a glove
+en lomme	a pocket
+et belte	a belt
+en knapp	a button
+en frakk	a coat
+en støvel	a boot
+et slips	a tie
+en vott	a mitten
+en pose	a bag
+kler	Wear clothes (presens)
+å kle	To wear clothes (infinitiv)
+et undertøy	a underwear
+en hettegenser	a hoodie
+ei T-skjorte	a t-shirt
+en genser	a sweater

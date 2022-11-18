@@ -1,0 +1,42 @@
+a chin	et kinn
+a fingernail	en negl
+a finger	en finger
+"a hair"	et hår
+an elbow	en albue
+a chest cavity	en brystkasse
+a stomach	en mage
+a head	et hode
+a forehead	en panne
+an eye, the eye, the eyes	et øye, øyne, øynene
+a foot, feet, the feet	en fot, føtter, føttene
+a heel	en hæl
+an ankle	en ankel
+a toe	en tå
+a footsole	en fotsåle
+an arm, arms, the arms	en arm, armer, armene
+a life	et liv
+a knee	et kne
+a chin	en hake
+an ear	et øre
+a leg	et bein
+a thigh	et lår
+a nose	en nese
+a nostril	en nesebor
+a mouth	en munn
+a toe, toes, the toes	en tå, tær, tærne
+a beard	et skjegg
+a back	en rygg
+a neck, throat	en hals
+a back of neck	en nakke
+a shoulder, shoulders, the shoulders	en skulder, skuldre, skuldrene
+a thumb	en tommel
+a hand	en hånd
+a palm	en håndflate
+a wrist	et håndledd
+a tongue	en tunge
+a tooth	en tann
+a lips	en lepper
+a heart	et hjerte
+an eyebrow	et øyebryn
+an eyelid	et øyelokk
+a eyelashes	et øyevipper
