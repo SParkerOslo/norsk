@@ -106,15 +106,15 @@ I am interested to hear from you	Jeg er interessert i å høre fra deg (om deg)
 trees are in the background	Bakgrunnen er tre.
 Behind the lady is trees	bak dame er tre.
 He has on a jacket	Han har på seg en jakke
-there are chairs around the table	Stolene er rundt bordet.
+The chairs are around the table	Stolene er rundt bordet.
 A contest (or game)	en konkurranse
 at the end	på slutten
-verb med KKe endelse, feks. å snakke (preteritum)	snakket
-verb med KKe endelse, feks. å snakke (presens perfektum)	har snakket
-verb med VKe endelse, feks å leke (preteritum)	lekte
-verb med VKe enelse, feks å leke (presens perfektum)	har lekt
-verb med eie endelse, feks å leie (presens perfektum)	har leid
-verb med ve endelse, feks å leve (preteritum)	levde
-verb med eie endelse, feks å leie (preteritum)	leide
+verb med -KKe endelse, feks. å snakke (preteritum)	snakket
+verb med -KKe endelse, feks. å snakke (presens perfektum)	har snakket
+verb med -VKe endelse, feks å leke (preteritum)	lekte
+verb med -VKe endelse, feks å leke (presens perfektum)	har lekt
+verb med -eie endelse, feks å leie (presens perfektum)	har leid
+verb med -ve endelse, feks å leve (preteritum)	levde
+verb med -eie endelse, feks å leie (preteritum)	leide
 a sink	en vask
 a mirror	et speil
