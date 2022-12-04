@@ -1,0 +1,57 @@
+a father	en far
+fathers	fedre
+the fathers	fedrene
+a mother	ei mor
+mothers	mødre
+the mothers	mødrene
+a sibling	et søsken
+the sibling	søsken
+siblings	søsken?
+the siblings	søskene
+a brother	en bror
+brothers	brødre
+the brothers	brødrene
+a sister	ei søster
+the sister	søstera
+sisters	søstre
+the sisters	søstrene
+a aunt	ei tante
+the aunt	tanta
+aunts	tanter
+the aunts	tantene
+a uncle	en onkel
+uncles	onkler
+a uncle	onklane
+a niece	ei niese
+the niece	niesa
+nieces	nieser
+the nieces	niesene
+a nephew	en nevø
+nephews	nevøer
+the nephews	nevøene
+a male cousin	en fetter
+male cousins	fettere
+the male cousins	fetterne
+a female cousin	ei kusina
+female cousins	kusiner
+the female cousins	kusinene
+a father inlaw	en svigerfar
+a mother inlaw	ei svigermor
+a daughter	ei datter
+the daughter	dattera
+a daughter	døtre
+a daughter	døtrene
+a son	en sønn
+sons	sønner
+the sons	sønnene
+a wife	ei kone
+wives	koner
+the wives	konene
+a parent	en forelder
+parents	foreldre
+the parents (both forms)	foreldrene, foreldra
+husband	en ektefelle
+a grandchild	et barnabarn
+a great grandfather	en oldefar
+twin	tvilling
+a great great grandfather	en tippoldefar
