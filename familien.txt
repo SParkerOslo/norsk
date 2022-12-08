@@ -21,7 +21,7 @@ aunts	tanter
 the aunts	tantene
 a uncle	en onkel
 uncles	onkler
-a uncle	onklane
+the uncles	onklane
 a niece	ei niese
 the niece	niesa
 nieces	nieser
