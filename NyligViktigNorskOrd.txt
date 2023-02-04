@@ -83,10 +83,10 @@ She asks is it always so cold here?	Hun spør om det alltid er så kaldt her?
 She has additional suitcases. (flertall)	Hun har mange kofferter.
 She has more suitcases. (komparativ, flertall)	Hun har flere kofferter
 She has additional luggage. (utellilig)	Hun har mye bagasje.
-She has more kyggage. (utellilig, komparativ)	Hun har mer bagasje.
+She has more luggage. (utellilig, komparativ)	Hun har mer bagasje.
 I would not eat, but they said I had to.	Jeg ville ikke spise, men de sa at jeg måtte.
 above to the right	øverst til høyre
-below to the left	nedre til høyre
+below to the left	nedre til venstre
 Thunderstorm	tordenvær
 lightning and thunder	lyn og torden
 The wall is white. (Simple assignment, uregler, derfor ikke bestemt!)	Veggen er hvit.
