@@ -1,0 +1,168 @@
+cheese slicer	østehøvel
+a duck	en and
+a cod	en torsk
+a grouper	en havabbor
+a salmon	en laks
+a turbot	en piggvar
+a wild salmon	en villaks
+a potato	en potet
+a fennel	en fennikel
+a leek	en purre
+a green onion	en vårløk
+a scallion	en vårløk
+a carrot	en gulrot
+a tomato	en tomat
+a caviar	en kaviar
+a parsley	en persille
+a basil	en basilikum
+extra virgin olive oil	ekstra virgin olivenolje
+bay leaf	laurbærblad
+3 fresh sprigs thyme	tre fersk kvister timian
+grated provolone cheese	revet provoloneost
+nicoise olives, seedless and chopped	Nicoise oliven, uten frø og hakka
+ground fennel seeds	malt fennikel frø
+heavy cream	kremfløte
+sour cream	setterømme
+finely chopped herbs	finnhakka urter
+a raspberry	et bringebær
+a strawberry	et jordbær
+a gooseberry	et stikkelsbær
+a blueberry	et blåbær
+a blackberry	et bjørnebær
+a red currant	en rød rips
+a white currant	en hvit rips
+a black currant	en solbær
+a ligonberry	et ligonbær
+a cloudberry	et multebær
+finely chopped	finhakka
+oysters	østers
+a oyster	en øyster
+a lime	en lime
+a lemon	en sitron
+fried foie gras	stekt foie gras
+pickled onion	syltet løk
+a walnut	en valnøtt
+an almond	en mandel
+a snail	en snegl
+oat	havre
+wheat	hvete
+soy	soya
+a fish	en fisk
+celery	seleri
+mustard	senep
+pistashios	pistasjnøtter
+mollusks	bløtdyr
+shellfish	skalldyr
+hazelnuts	hasselnøtter
+a potato	en potet
+an artichoke	en artisjokk
+black truffle	sort trøffel
+celeriac	sellerirot
+squid	blekksplurt (splurt)
+fried artichoke	fritert artisjokk
+spiced glazed	krydderglasert
+pigeon breast	duebryst
+apricot	aprikos
+pistachio	pistasj
+grilled	grillet
+broccolini	brokkolini
+rum	rom
+raisin	rosin
+potato puree	potetpuré
+crispy onions	sprø løk
+caramel	karamell
+vanilla ice cream	vaniljeis
+chocolates (from a box of...)	sjokoladekonfekter
+barley	bygg
+Today's starter	dagens forrett
+trout eggs	ørettrogn
+crispy chicken skin	sprøtt kyllingskinn
+capers	kapers
+red beets	rødbeter
+green beans	asparagusbønner
+cod tongue	torsketunger
+tomato compote	tomatkompott
+lobster	hummer
+crayfish	sjøkreps
+prawns	reker
+crab	krabbe
+scallops	kamskjell
+mussels	blåskjell
+mayonaise	majones
+steamed mussels	dampede blåskjell
+safron	safran
+poached eff from Holte Farms	posjert egg fra Holte gård
+spinache	spinat
+parsnip	pastinakk
+roasted almonds	ristede mandler
+pepper sauce	peppersaus
+veal liver	gjøkalvelever
+bacon	bacon
+shallots	sjalottløk
+pearl onions	stjerneløk
+red onion	rødløk
+chives	gressløk
+spring onion	salatløk
+beef tenderloin	oksefillet
+marinated fruit	marinerte frukter
+garlic	hvitløk
+sourdough bread	surdeigsbrød
+potato foam	potetskum
+honey	honning
+rye bread	rugkrøns
+goat cream cheese	geitøstkrem
+egg yolks	eggeplømmer
+an egg yolk	plømme
+fried cod tongue	friterte torsketunger
+potatoe cake	potetkake
+herb oil	urteolje
+crutons	krutonger
+tartar of hanger steak	tartar av slakterbiff
+herb roasted veal culotte	urtestekt kalveculotte
+confit of duck leg	konfitert andelår
+pickled black currants	syltede solbær
+fried kale	fritert grønnkål
+brown butter sauce	brunet smør saus
+honey glazed	honningglaserte
+potatoe chips	potetgul
+chocolate fondant	sjokoladefondant
+forest berry compote	skogsbærkompott
+a taste of brunost	smakstilsatt med brunost
+fig compote	fikenkompott
+roasted nuts	ristede nøtter
+a selection of mature cheeses	et utvalg modne oster
+fresh berries	friske bær
+chef's 3 course menu	kokkens 3 retters meny
+juice from lemon	saft fra sitron
+put egg yolk in a bowl	ha eggeplommen i en bolle
+stir in parmesan	rør inn parmesan
+mix together	bland sammen
+cook for 3 minutes until the brocolli is soft	kok i 3 minutter til broklinien er mør
+top with olive oil	topp med olivenolje
+set the oven to 200	sett ovnen på 200
+the trout should be served immediately	ørreten bør spises med en gang
+while melting the butter	imens smelter du smøret
+place duck breast with skin side down	legg andebryst med skinnside ned
+ground beef (of cow)	kjøttdeig av storfe
+ground beef (of pig)	kjøttdeig av svin
+clove of garlic	fedd hvitløk
+whisk together water and yeast	visp sammen vann og gjær
+use your fingers to make small indentations in the dough bruk fingrene til å lage små søkk i deigen
+macaroni	makaroni
+fine grated	finrevet
+turn up the heat	skru av varmen
+rack of lamb	lammecarré
+rosemary	rosmarin
+mushroom	sopp
+dairy butter	meierismør
+fry the slices in a dry frying pan	steik skivene i en tørr steikepanne
+boil stock in a pot	kok opp kraft i en kjele
+fry the shallots a few minutes until soft and glossy	steke sjalottløk i noen minutter til den er myk og blank
+salt to taste	smak til med selt
+cover with baking paper and set in over at 200 C	legg over bakepaper og sett formen i ovnen på 200 C
+cucumber	agurk
+paprika	paprika
+canned chickpeas	hermetiske kikerter
+remove the skin	fjern skinnet
+cut in thin slices	skjær i tynne skiver
+you can make this salad a few hours in advance	denne salaten kan du fint lage noen timer i forveien
