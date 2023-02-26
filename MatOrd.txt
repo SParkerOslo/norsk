@@ -1,4 +1,4 @@
-cheese slicer	østehøvel
+cheese slicer	ostehøvel
 a duck	en and
 a cod	en torsk
 a grouper	en havabbor
@@ -110,7 +110,7 @@ sourdough bread	surdeigsbrød
 potato foam	potetskum
 honey	honning
 rye bread	rugkrøns
-goat cream cheese	geitøstkrem
+goat cream cheese	geitostkrem
 egg yolks	eggeplømmer
 an egg yolk	plømme
 fried cod tongue	friterte torsketunger
