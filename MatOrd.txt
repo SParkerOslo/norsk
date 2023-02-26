@@ -22,7 +22,7 @@ grated provolone cheese	revet provoloneost
 nicoise olives, seedless and chopped	Nicoise oliven, uten frø og hakka
 ground fennel seeds	malt fennikel frø
 heavy cream	kremfløte
-sour cream	setterømme
+sour cream	seterrømme
 finely chopped herbs	finnhakka urter
 a raspberry	et bringebær
 a strawberry	et jordbær
@@ -49,7 +49,7 @@ wheat	hvete
 soy	soya
 a fish	en fisk
 celery	seleri
-mustard	senep
+mustard	sennep
 pistashios	pistasjnøtter
 mollusks	bløtdyr
 shellfish	skalldyr
@@ -58,7 +58,7 @@ a potato	en potet
 an artichoke	en artisjokk
 black truffle	sort trøffel
 celeriac	sellerirot
-squid	blekksplurt (splurt)
+squid	blekkspurt (spurt)
 fried artichoke	fritert artisjokk
 spiced glazed	krydderglasert
 pigeon breast	duebryst
@@ -79,7 +79,7 @@ trout eggs	ørettrogn
 crispy chicken skin	sprøtt kyllingskinn
 capers	kapers
 red beets	rødbeter
-green beans	asparagusbønner
+green beans	aspargesbønner
 cod tongue	torsketunger
 tomato compote	tomatkompott
 lobster	hummer
