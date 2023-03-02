@@ -59,7 +59,7 @@ an artichoke	en artisjokk
 black truffle	sort trøffel
 celeriac	sellerirot
 squid	blekkspurt (spurt)
-fried artichoke	fritert artisjokk
+deep fried artichoke	fritert artisjokk
 spiced glazed	krydderglasert
 pigeon breast	duebryst
 apricot	aprikos
@@ -113,7 +113,7 @@ rye bread	rugkrøns
 goat cream cheese	geitostkrem
 egg yolks	eggeplommer
 an egg yolk	en eggeplomme
-fried cod tongue	friterte torsketunger
+deep fried cod tongue	friterte torsketunger
 potatoe cake	potetkake
 herb oil	urteolje
 crutons	krutonger
@@ -121,7 +121,7 @@ tartar of hanger steak	tartar av slakterbiff
 herb roasted veal culotte	urtestekt kalveculotte
 confit of duck leg	konfitert andelår
 pickled black currants	syltede solbær
-fried kale	fritert grønnkål
+deep fried kale	deep fritert grønnkål
 brown butter sauce	brunet smør saus
 honey glazed	honningglaserte
 potatoe chips	potetgul
@@ -155,7 +155,7 @@ rack of lamb	lammecarré
 rosemary	rosmarin
 mushroom	sopp
 dairy butter	meierismør
-fry the slices in a dry frying pan	steik skivene i en tørr steikepanne
+roast the slices in a dry roasting pan	steik skivene i en tørr steikepanne
 boil stock in a pot	kok opp kraft i en kjele
 fry the shallots a few minutes until soft and glossy	steke sjalottløk i noen minutter til den er myk og blank
 salt to taste	smak til med selt
