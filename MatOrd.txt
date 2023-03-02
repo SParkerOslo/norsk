@@ -111,8 +111,8 @@ potato foam	potetskum
 honey	honning
 rye bread	rugkrøns
 goat cream cheese	geitostkrem
-egg yolks	eggeplømmer
-an egg yolk	plømme
+egg yolks	eggeplommer
+an egg yolk	en eggeplomme
 fried cod tongue	friterte torsketunger
 potatoe cake	potetkake
 herb oil	urteolje
