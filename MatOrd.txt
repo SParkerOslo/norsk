@@ -17,7 +17,7 @@ a parsley	en persille
 a basil	en basilikum
 extra virgin olive oil	ekstra virgin olivenolje
 bay leaf	laurbærblad
-3 fresh sprigs thyme	tre fersk kvister timian
+three fresh sprigs thyme	tre fersk kvister timian
 grated provolone cheese	revet provoloneost
 nicoise olives, seedless and chopped	Nicoise oliven, uten frø og hakka
 ground fennel seeds	malt fennikel frø
@@ -132,7 +132,7 @@ fig compote	fikenkompott
 roasted nuts	ristede nøtter
 a selection of mature cheeses	et utvalg modne oster
 fresh berries	friske bær
-chef's 3 course menu	kokkens 3 retters meny
+chef's tre course menu	kokkens tre retters meny
 juice from lemon	saft fra sitron
 put egg yolk in a bowl	ha eggeplommen i en bolle
 stir in parmesan	rør inn parmesan
