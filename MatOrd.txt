@@ -150,7 +150,9 @@ whisk together water and yeast	visp sammen vann og gjær
 use your fingers to make small indentations in the dough bruk fingrene til å lage små søkk i deigen
 macaroni	makaroni
 fine grated	finrevet
-turn up the heat	skru av varmen
+turn up the heat	skru opp varmen
+turn off the heat	skru av varmen
+turn down the heat	skru ned varmen
 rack of lamb	lammecarré
 rosemary	rosmarin
 mushroom	sopp
