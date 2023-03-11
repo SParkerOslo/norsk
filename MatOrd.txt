@@ -147,7 +147,7 @@ ground beef (of cow)	kjøttdeig av storfe
 ground beef (of pig)	kjøttdeig av svin
 clove of garlic	fedd hvitløk
 whisk together water and yeast	visp sammen vann og gjær
-use your fingers to make small indentations in the dough bruk fingrene til å lage små søkk i deigen
+use your fingers to make small indentations in the dough	bruk fingrene til å lage små søkk i deigen
 macaroni	makaroni
 fine grated	finrevet
 turn up the heat	skru opp varmen
