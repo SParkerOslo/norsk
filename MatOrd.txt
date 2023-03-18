@@ -168,3 +168,7 @@ canned chickpeas	hermetiske kikerter
 remove the skin	fjern skinnet
 cut in thin slices	skjær i tynne skiver
 you can make this salad a few hours in advance	denne salaten kan du fint lage noen timer i forveien
+corn tortillas	maistortillas
+basmati rice	basmatiris
+jasmin rice	jasminris
+long grained rice	langkornet ris
