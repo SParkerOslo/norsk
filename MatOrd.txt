@@ -172,3 +172,7 @@ corn tortillas	maistortillas
 basmati rice	basmatiris
 jasmin rice	jasminris
 long grained rice	langkornet ris
+Today's menu	dagens meny
+scrambled eggs	eggerøre
+cured meats	spekemat
+smoked salmon	røktlaks
