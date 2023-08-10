@@ -1,4 +1,17 @@
-helhetlig  holistically
-skjæringspunnktet  point of intersection
-verdi  value
-innsikt  insight
+holistically  helhetlig
+point of intersection  skjæringspunnktet
+value  verdi
+insight  innsikt
+customer needs  kundebehov
+consider  revurdere
+leave  forlate
+uncover  avdekke
+survey  kartlegge
+obtain  innhente
+execute  utføre
+type in  tast inn
+withdrawl form  angrerettskjema
+solution  løsning
+hypothesis  hypotese
+approach  tiltak
+get started  komigang
