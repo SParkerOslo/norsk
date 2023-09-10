@@ -16,12 +16,13 @@ hypothesis	hypotese
 approach	tiltak
 get started	komigang
 explore	utforske
-we strike a blow against    vi slår et slag mot
-some of us may appreciate extra enkelte av oss setter kanskje ekstra pris på
-in addition i tillegg
-for those who like themes   for de tema-glade
-close the taps (beer)   stenger kranene
-those who want to go on de som vil kan dra videre
-meeting invitation  møteinnkallingen
-as said earlier som sagt tidlegere
-launched    lansert
+we strike a blow against	vi slår et slag mot
+some of us may appreciate extra	enkelte av oss setter kanskje ekstra pris på
+in addition	i tillegg
+for those who like themes	for de tema-glade
+close the taps (beer)	stenger kranene
+those who want to go on	de som vil kan dra videre
+meeting invitation	møteinnkallingen
+as said earlier	som sagt tidlegere
+launched	lansert
+request not to be tracked	be om å ikke bli sporet
